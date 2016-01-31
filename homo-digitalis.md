@@ -11,35 +11,33 @@ stylesheet: homo-digitalis.css
 
 ## What Is PDF?
 
-PDF stands for “portable document format.” It has been developed by _Adobe_ for decades. It is _the portable document format_, and not simply another one. This is even based on the fact that “portable document format” is a trademark granted to _Adobe_ in many jurisdictions.
+PDF stands for “portable document format.” It has been developed by _Adobe_ for decades. It is _the_ portable document format, and not simply _a_ portable document format. This is even based on the fact that “portable document format” is a trademark granted to _Adobe_ in many jurisdictions.
 
-Leaving legal issues aside, PDF documents are known by average users as being specially suited for printing the file contents without any modification at all. In fact, many of these users even think that a PDF file is unalterable. They say PDF documents cannot be modified in any case. Just for the record, unencrypted PDF documents can be modified also. Although editing them—you may want to use _LibreOffice Draw_ for this purpose—is not so easy as editing files in a word processor format.
+Leaving legal issues aside, PDF documents are known by average users as being specially suited for printing the file contents without any modification at all. In fact, many of these users even think that a PDF file is unalterable. They say PDF documents cannot be modified in any case. Just for the record, unencrypted PDF documents can be modified also. Although editing them—you may use _LibreOffice Draw_ for this purpose—is not so easy as editing files in a word processor format.
 
-The PDF format—I know there is an internal redundancy here, but I am going to leave it as is—is the standard in the printing industry. Your local copyshop may allow its customers even to print even large documents in any format format its computers can read. But professionals demand documents in PDF format. Or they will charge for text composition todo.
+The PDF format—I know there is an internal redundancy here, but I am going to leave it that way—is the standard in the printing industry. Your local copyshop may allow its customers even to print even large documents in any format format its computers can read. But professionals demand documents in PDF format. Or they will charge for text typesetting too.
 
-The average user understands that PDF may be understood as “printing document format”. And this basic perception captures the final purpose of the PDF is right. PDF is the best option when you want to print finished documents without any modifications—independent from the computer, operative system or printer used for printing.
+The average user understands that PDF may be considered the “printing document format”. And this basic perception that captures the final purpose of the PDF is right. PDF is the best option when you want to print finished documents without any modifications—independent from the computer, operative system or printer used for printing.
 
 ## A Real Standard
 
-Since _Adobe_ develops the PDF, many think that you can only generate and read PDF documents with _Adobe_ products. This would leave mainly _Adobe Reader_ and _Adobe Professional_—&#8203;named _Acrobat Reader_ and _Acrobat Professional_ before.
+Since _Adobe_ develops the PDF, many think that you can only generate and read PDF documents with _Adobe_ products. This would leave mainly _Adobe Reader_ and _Adobe Professional_—named _Acrobat Reader_ and _Acrobat Professional_ before.
 
-But the previous statement isn’t simply true. Not only by the fact that there are other programs that allow PDF generation and display. There are many of them. The reason behind this colorful diversity is that PDF is a standard—the PDF 32000–1. _Adobe_ pushed for its first version and the second version is on the works. It is publicly accessible from its website containing references to its licensing policy.
+But the previous statement isn’t simply true. Not only by the fact that there are other programs that allow PDF generation and display. There are many of them. The reason behind this colorful diversity is that the PDF is a standard—the ISO 32000–1. _Adobe_ pushed for its first version and the second version is in the works. The released version is publicly accessible from its website containing references to its licensing policy.
 
-Due to this practice, PDF has become the standard for printed matters in a networked world. Some professionals use _Adobe_ products for document generation, printing or display. Many other don’t use products from _Adobe_ and those . One of the best programs—not being a typesetting systems themselves—would be _Ghostscript_. Because of this standard, their quality only depends in how far and faithful any software implements it.
+Due to this practice, PDF has become the standard for printed matters in a networked world. Some professionals use _Adobe_ products for document generation, printing or display. Many other don’t use products from _Adobe_ and that software matches or surpasses _Adobe_ in professional performance and output. One of the best programs—not being typesetting systems themselves; such as <span class="tex-logo">pdfTeX</span>, <span class="tex-logo">XeTeX</span> or <span class="tex-logo">LuaTeX</span>—would be _Ghostscript_. Because of the documented standard, their quality only depends in how far and faithful any software implements its specification.
 
-The PDF standard is public. It isn’t open, because third parties may only propose implementations to this standard. _Adobe_ has the final word and they can reject any proposed change.
+The PDF standard is public. It isn’t open, because third parties may only propose implementations to the standard. _Adobe_ has the final word and they can reject any proposed change.
 
 ## A Glimpse Into the Features
 
-The PDF document faithfully represents the physical page exctcly as it has been designed by its original author. Any—conformant—reader will render the same layout, with fonts and any other characteristics. This makes it perfect for printing. No matter which devices or even software you use, you will get exactly the same output.
+The PDF document faithfully represents the physical page as it has been exactly designed by its original author. Any—conformant—reader will render the same layout, with fonts and any other characteristics. This makes it perfect for printing. No matter which devices or even software you use, you will get exactly the same output.
 
-PDF has been used not only for printing, but for sharing documents. This is still the case in electronic documents that are a replacement for physical pages. Legal documents are one example. Since screens differ in size, ranging from smartphones and handheld devices to ultrawide screens or ultra-HD TV screens, choosing PDF may not fit all screen sizes in one file. The ePub format is more suitable for electronic editions.
+PDF has been used not only for printing, but for sharing documents. This is still the case in electronic documents that are a replacement for physical pages. Legal documents are one example. Since screens differ in size, ranging from smartphones and handheld devices to ultrawide screens or ultra–HD TV screens, choosing PDF may not fit all screen sizes in one file. This is the reason why the ePub format is more suitable for electronic editions.
 
-PDF documents allow some programming, so that other
+Some advanced features in the PDF are both interactive and multimedia features. The interactive features include digital signatures, a wide variety of annotations, form filling and even interactive forms. Multimedia features include the embedding of arbitrary media types in the PDF document and the reproduction of embedded media in multiple ways. PDF documents may be even extended with _Javascript_ code in all their elements.
 
-digital signatures form filling
-
-automatically generated
+The most important property for PDF documents is that they can be generated automatically for preexisting data. PDF generation requires only the coding for the program that merges the data and outputs the PDF documents. This is on–the–fly document generation and requires no further human interaction.
 
 ## Printing Features
 
